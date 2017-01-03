@@ -91,6 +91,7 @@ Also:
 
 * [SikuliX](http://www.sikulix.com/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components. This is handy in cases when there is no easy access to a GUI's internals or the source code of the application or web page you want to act on.
 * [Winium for Desktop](https://github.com/2gis/Winium.Desktop/) - Winium.Desktop is an open source test automation tool for automated testing of Windows application based on WinFroms and WPF platforms.
+* [AutoIT for Java](https://github.com/accessrichard/autoitx4java) - AutoItX4Java uses JACOB to access AutoItX through COM and strives to provide a native Java interface while maintaining the simplicity of AutoIt.
 
 ## Unix \ Linux UI test automation 
 
